@@ -1,0 +1,506 @@
+[
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "New",
+        "id": "M11CR0001104905",
+        "name": "HIDE OURO",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "New",
+        "id": "M11CR0001207791",
+        "name": "METALLIC VEST NECTAR",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "New",
+        "id": "M11CR0001209362",
+        "name": "METALLIC VEST FORMOSO",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "New",
+        "id": "M11CR0001306485",
+        "name": "METALLIC VEST BURGUNDY",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001308612",
+        "name": "METALLIC VEST GRENADINE",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001406599",
+        "name": "METALLIC VEST NUDE",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001508062",
+        "name": "METALLIC VEST BIC BLUE",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001508435",
+        "name": "METALLIC VEST BLUE SPACE",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001608938",
+        "name": "CHAIN SHIRT VERT ACIDE",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001609949",
+        "name": "CHAIN SHIRT AZTECA",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001610128",
+        "name": "CHAIN SHIRT GREEN TEA",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001611865",
+        "name": "CHAIN SHIRT URBAN",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001709378",
+        "name": "CHAIN SHIRT ANGELIM",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001709499",
+        "name": "CHAIN SHIRT MUSTANG",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001709974",
+        "name": "CHAIN SHIRT PELLE",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001711762",
+        "name": "CHAIN SHIRT MAHOGANY",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001805591",
+        "name": "HIDE PRATA",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Default",
+        "id": "M11CR0001807486",
+        "name": "HIDE ESTANHO CLASSIC",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Exploration",
+        "sgroup": "Vintage",
+        "id": "M11CR0017000027",
+        "name": "RING MAIL BRANCO",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017000050",
+        "name": "RING MAIL CRU",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017107503",
+        "name": "RING MAIL MOSTARDA CLASS",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017209950",
+        "name": "SCALE MAIL SUEDE OLARIA",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017300134",
+        "name": "SCALE MAIL SUEDE VERMELHO",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017308304",
+        "name": "SCALE MAIL SUEDE POMPEIAN RED",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017308424",
+        "name": "SCALE MAIL SUEDE CABERNET",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017308791",
+        "name": "SCALE MAIL SUEDE MERLOT",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017309363",
+        "name": "SCALE MAIL SUEDE PORT ROYALE",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017310142",
+        "name": "SCALE MAIL SUEDE PAU-BRASIL",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017316088",
+        "name": "SCALE MAIL SUEDE POMPEIAN RED 1",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017406599",
+        "name": "RING MAIL NUDE",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017508435",
+        "name": "SPLINT BLUE SPACE",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017508790",
+        "name": "HALF PLATE AZUL DE LYON",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017509386",
+        "name": "SPLINT CADET GREY",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017512255",
+        "name": "HALF PLATE BLUE SPACE 1",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017607470",
+        "name": "HALF PLATE PINHO",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017611865",
+        "name": "HALF PLATE URBAN",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017625429",
+        "name": "HALF PLATE URBAN 2",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017700037",
+        "name": "HALF PLATE CHOCOLATE",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017700038",
+        "name": "HALF PLATE CHOCOLATE 1",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017706776",
+        "name": "HALF PLATE COGNAC",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017708056",
+        "name": "HALF PLATE FUNGI",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017709355",
+        "name": "HALF PLATE MILKY",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017709365",
+        "name": "STUDDED LEATHER ITAUBA",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017709378",
+        "name": "STUDDED LEATHER ANGELIM",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017709482",
+        "name": "STUDDED LEATHER TAPIOCA",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017709499",
+        "name": "STUDDED LEATHER MUSTANG",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017709924",
+        "name": "MLH MICRO SUEDE BLAND BROWN",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017709974",
+        "name": "STUDDED LEATHER PELLE",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017711437",
+        "name": "STUDDED LEATHER NUGGET",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017715838",
+        "name": "STUDDED LEATHER IMBUIA",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017804906",
+        "name": "STUDDED LEATHER CHUMBO",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017808607",
+        "name": "STUDDED LEATHER STONE",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017809025",
+        "name": "RING MAIL FERREO",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017809215",
+        "name": "RING MAIL STAR LIGHT",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017809356",
+        "name": "RING MAIL CADMIO",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017900084",
+        "name": "RING MAIL PRETO",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Vintage",
+        "id": "M11CR0017905057",
+        "name": "RING MAIL PRETO 1",
+        "comp": "87% Adamantium; 13% Kryptonite;"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Default",
+        "id": "M11CR0023000027",
+        "name": "BREASTPLATE BRANCO",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Default",
+        "id": "M11CR0023107152",
+        "name": "BREASTPLATE DAISY",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Default",
+        "id": "M11CR0023110149",
+        "name": "BREASTPLATE TENDER YELLOW",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Default",
+        "id": "M11CR0023207791",
+        "name": "BREASTPLATE NECTAR",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "Default",
+        "id": "M11CR0023209362",
+        "name": "BREASTPLATE FORMOSO",
+        "comp": "100% Adamantium"
+    },
+    {
+        "area": "Development",
+        "group": "Sales",
+        "sgroup": "New",
+        "id": "M11CR0023306485",
+        "name": "BREASTPLATE BURGUNDY",
+        "comp": "100% Adamantium"
+    }
+]
